@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Marwen Shili and I'm a Software Engineer specializing in web development ( React, Next.js, Angular, and Node.js).</h2>
+<h2 align="center">Hi 👋! My name is Marwen Shili and I'm a Software Engineer specializing in web development (React, Next.js, Angular, and Node.js).</h2>
 
 ###
 
