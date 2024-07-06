@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Marwen Shili and I'm a Software Engineer specializing in web development ( React, Next.js, Angular, and Node.js).</h2>
+<h2 align="center">Hi 👋! My name is <a href="https://marwen-shili.vercel.app" target="_blank">Marwen Shili</a> and I'm a Software Engineer specializing in web development (React, Next.js, Angular, and Node.js).</h2>
 
 ###
 
@@ -11,7 +11,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MarwenShili/MarwenShili/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarwenShili/MarwenShili/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -43,6 +45,13 @@
   <a href="https://www.linkedin.com/in/marwen-sh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <h4>My Portfolio</h4>
+<p>Visit my portfolio website at <a href="https://marwen-shili.vercel.app" target="_blank">marwen-shili.vercel.app</a> to see my latest projects and work samples.</p>
 </div>
 
 ###
