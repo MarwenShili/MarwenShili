@@ -51,7 +51,7 @@
 
 <div align="center">
   <h4>My Portfolio</h4>
-<p>Visit my portfolio website at <a href="https://marwen-shili.vercel.app" target="_blank">marwen-shili.vercel.app</a> to see my latest projects and work samples.</p>
+<p>Visit my portfolio website at <a href="https://marwen-shili.vercel.app/profile/projects" target="_blank">marwen-shili.vercel.app</a> to see my latest projects and work samples.</p>
 </div>
 
 ###
